@@ -45,16 +45,6 @@ export default function slides() {
         </div>
         <div>
           <Image 
-            src="/Mesa_de_trabajo_3.png"
-            width={500}
-            height={500}
-            alt={`Hablar como si tuviera veinte años es mi afán, La juventud en las palabras siempre está en mi plan.`}
-            priority={true}
-            className={`w-auto`}
-          />
-        </div>
-        <div>
-          <Image 
             src="/Mesa_de_trabajo_4.png"
             width={500}
             height={500}
